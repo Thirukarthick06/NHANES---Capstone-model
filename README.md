@@ -21,6 +21,3 @@ This project analyzes body measurement data from the National Health and Nutriti
 
 [National Health and Nutrition Examination Survey Teaching Data](https://github.com/gagolews/teaching-data/tree/master/marek)
 
----
-
-> Created for Corizo Capstone Project 1
